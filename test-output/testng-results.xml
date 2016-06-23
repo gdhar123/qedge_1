@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="188140" started-at="2016-06-21T13:03:41Z" finished-at="2016-06-21T13:06:49Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="188140" started-at="2016-06-21T13:03:41Z" finished-at="2016-06-21T13:06:49Z">
+      <class name="Pack2.Test1">
+        <test-method status="PASS" signature="launch()[pri:0, instance:Pack2.Test1@1fbc7afb]" name="launch" duration-ms="111668" started-at="2016-06-21T18:33:41Z" finished-at="2016-06-21T18:35:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+      </class> <!-- Pack2.Test1 -->
+      <class name="Pack2.Test2">
+        <test-method status="PASS" signature="launch()[pri:0, instance:Pack2.Test2@6adca536]" name="launch" duration-ms="5266" started-at="2016-06-21T18:35:32Z" finished-at="2016-06-21T18:35:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="close()[pri:0, instance:Pack2.Test2@6adca536]" name="close" duration-ms="71186" started-at="2016-06-21T18:35:38Z" finished-at="2016-06-21T18:36:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- Pack2.Test2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
